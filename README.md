@@ -1,2 +1,2 @@
 # Audio
-Raspberry Pi Audio for a IoT project
+An Audio Script for a IoT project
